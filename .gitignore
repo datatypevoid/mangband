@@ -9,3 +9,5 @@ lib/data/limits.raw
 lib/data/p_class.raw
 lib/data/p_hist.raw
 lib/data/p_race.raw
+supervise
+run
